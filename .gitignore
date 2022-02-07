@@ -10,3 +10,7 @@ npm-debug.log
 # Docker
 Dockerfile
 docker-compose.yml
+'/node_modules' 
+npm-debub.log 
+.DS_Store 
+'/*.env' 
